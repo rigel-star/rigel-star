@@ -1,4 +1,4 @@
 ## Visit rigel-star.github.io to know more about me.
 
 - 🔭 I’m a graduate.
-<img src="https://komarev.com/ghpvc/?username=awebisam">
+<img src="https://komarev.com/ghpvc/?username=rigel-star">
