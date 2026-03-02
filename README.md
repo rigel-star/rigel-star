@@ -2,3 +2,4 @@
 
 - 🔭 I’m a graduate.
 - I love programming in C.
+- I love programming in Rust.
